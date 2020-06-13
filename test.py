@@ -1,0 +1,1 @@
+print("funciona filha da puta")
